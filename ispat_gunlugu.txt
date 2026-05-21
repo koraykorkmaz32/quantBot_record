@@ -1,8 +1,2 @@
 
 2026-05-15 18:48 | #TKFEN | Kat: Trend | Başarı: %100.0 | Fiyat: ₺137.00
-2026-05-20 19:32 | #ARCLK | Kat: Tepki | Başarı: %100.0 | Fiyat: ₺107.70
-2026-05-20 19:32 | #CANTE | Kat: Tepki | Başarı: %100.0 | Fiyat: ₺1.57
-2026-05-20 19:32 | #CIMSA | Kat: Tepki | Başarı: %100.0 | Fiyat: ₺52.15
-2026-05-20 19:32 | #OTKAR | Kat: Tepki | Başarı: %100.0 | Fiyat: ₺352.75
-2026-05-20 19:32 | #PETKM | Kat: Trend | Başarı: %100.0 | Fiyat: ₺24.34
-2026-05-20 19:32 | #VESTL | Kat: Tepki | Başarı: %100.0 | Fiyat: ₺27.00
